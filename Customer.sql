@@ -4,5 +4,5 @@ CREATE TABLE [dbo].Customer(
   [CustomerName] [VarChar](200), NOT NULL,
   [CoffeeType] [VarChar](100), NOT NULL,
   [CoffeeSize] [VarChar](50), NOT NULL,
-  [WantsPastry] [bool]
+  [HotfixTree] [bool]
 )
